@@ -1,0 +1,17 @@
+Name: Khushboo Sharma
+Degree: B.Tech Computer Science Engineering
+University: Chandigarh University
+
+About Me:
+I am a motivated CSE student learning programming, problem solving,
+and communication skills to build a strong career in the IT industry.
+
+Skills I am learning:
+- C / C++
+- Data Structures & Algorithms (Basics)
+- Git & GitHub
+- Web Development (HTML, CSS)
+- Communication Skills
+
+Goal:
+To get placed in a good company and grow as a software professional.
